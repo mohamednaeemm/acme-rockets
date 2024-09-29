@@ -25,7 +25,3 @@ Welcome to the **Acme Rockets** project! This project was created to practice an
    ```
 
 2. Open the `index.html` file in any modern web browser to view the project.
-
-## Live server
-
-- https://mohamednaeemm.github.io/acme-rockets/
